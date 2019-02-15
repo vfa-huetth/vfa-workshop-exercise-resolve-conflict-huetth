@@ -1,4 +1,5 @@
 # vfa-workshop-exercise-resolve-conflict-huetth
+<<<<<<< HEAD
 AAAAA
 
 BBBBB
@@ -6,3 +7,7 @@ BBBBB
 CCCCC
 
 DD
+=======
+
+ddddd
+>>>>>>> master
